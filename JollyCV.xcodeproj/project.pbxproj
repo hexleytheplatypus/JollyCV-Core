@@ -47,7 +47,6 @@
 		87374E4A2962A510000D8B3B /* jcv_memio.c in Sources */ = {isa = PBXBuildFile; fileRef = 87374E402962A510000D8B3B /* jcv_memio.c */; };
 		87374E522962A5A3000D8B3B /* resample.c in Sources */ = {isa = PBXBuildFile; fileRef = 87374E4F2962A5A3000D8B3B /* resample.c */; };
 		8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
-		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
 		94AE2EFA17B0C1330018DFBB /* OpenEmuBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94AE2EF917B0C1330018DFBB /* OpenEmuBase.framework */; };
 /* End PBXBuildFile section */
 
@@ -123,7 +122,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */,
 				94AE2EFA17B0C1330018DFBB /* OpenEmuBase.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
